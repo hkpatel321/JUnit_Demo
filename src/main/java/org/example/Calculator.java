@@ -10,8 +10,8 @@ public class Calculator {
         return first - second;
     }
 
-    public int multiply(int first, int second) {
-        return first * second;
+    public int multiply(int f, int second) {
+        return f * second;
     }
 
     public int divide(int first, int second) {
